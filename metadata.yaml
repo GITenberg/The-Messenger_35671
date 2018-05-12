@@ -1,0 +1,39 @@
+_repo: The-Messenger_35671
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Giguere, George
+    gutenberg_agent_id: '25897'
+    url: http://www.gutenberg.org/2009/agents/25897
+covers:
+- cover_type: archival
+  image_path: 35671-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robins, Elizabeth
+    aliases:
+    - Parks, Elizabeth Robins
+    - Raimond, C. E.
+    - Parkes, Elizabeth Robins
+    - Parks, Mrs. George Richmond
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '3274'
+    url: http://www.gutenberg.org/2009/agents/3274
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
+description: ''
+gutenberg_issued: '2011-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35671'
+  lccn: '19014909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Spy stories'
+- !lcc 'PS'
+title: The Messenger
+url: http://www.gutenberg.org/ebooks/35671
