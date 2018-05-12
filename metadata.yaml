@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3274
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35671#The-Messenger
 gutenberg_issued: '2011-03-24'
 gutenberg_type: Text
 identifiers:
